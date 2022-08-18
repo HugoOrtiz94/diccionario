@@ -1,3 +1,3 @@
 # diccionario
 proyecto final Micoreconomia UMG 
-Se realizo en Javascript para un miniproyecto de un curso de la Universidad
+Se realizo un simulador de diccionario con descripciones de palabras relacionadas a economia en Javascript para un miniproyecto de un curso
